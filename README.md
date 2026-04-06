@@ -1,16 +1,24 @@
-## Hi there 👋
+###
 
-<!--
-**raissatozetti/raissatozetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Estudante | Banco de Dados | Desenvolvedor Back-end | Desenvolvedor Full-Stack
 
-Here are some ideas to get you started:
+# Olá, me chamo Raissa Tozetti, sou apaixonada por análise de dados e desenvolvimento back-end! Atualmente, sou estudante na Fatec de Presidente Prudente e no Senac São Paulo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+### 🛠️ No que eu foco:
+ 
+* **Full-Stack Development:** Experiência no ciclo completo de desenvolvimento (Front-end e Back-end).
+* **Design & UX:** Criação de wireframes e protótipos focados na experiência do usuário e responsividade.
+* **API & Backend:** Desenvolvimento de serviços web seguindo a arquitetura REST e integração com bancos de dados.
+
+---
+ 
+### 🎓 Formação em Destaque:
+ 
+* **Analise e Desenvolvimento de Sistemas - Fatec Presidente Prudente**
+    * Desenvolvedor Full-stack - Senac São Paulo
+    * Desenvolvimento de aplicações web ponta a ponta.
+    * Modelagem de dados e arquitetura REST.
+    * Segurança da informação e boas práticas de versionamento.
+    * Prototipagem e propostas comerciais para web
