@@ -1,3 +1,11 @@
+<div>
+<p>
+<a href="https://www.dfilitto.com.br">
+<img src="https://github.com/raissatozetti/raissatozetti/blob/main/imagens/thumb" width="100%" height="auto"/>
+</a>
+</p>
+</div>
+
 ###
 
 ## Estudante | Banco de Dados | Desenvolvedor Back-End | Desenvolvedor Full-Stack
