@@ -1,6 +1,6 @@
 <div>
 <p>
-<img src="https://github.com/raissatozetti/raissatozetti/blob/main/Imagens/thumb.jpg" width="100%" height="auto"> 
+<img src="https://github.com/raissatozetti/raissatozetti/blob/main/Imagens/thumb.jpg" width="100%" height="50%"> 
 </p>
 </div>
 
