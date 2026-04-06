@@ -1,6 +1,6 @@
 ###
 
-## Estudante | Banco de Dados | Desenvolvedor Back-end | Desenvolvedor Full-Stack
+## Estudante | Banco de Dados | Desenvolvedor Back-End | Desenvolvedor Full-Stack
 
 # Olá, me chamo Raissa Tozetti, sou apaixonada por análise de dados e desenvolvimento back-end! Atualmente, sou estudante na Fatec de Presidente Prudente e no Senac São Paulo.
 
@@ -19,6 +19,4 @@
 * **Analise e Desenvolvimento de Sistemas - Fatec Presidente Prudente**
     * Desenvolvedor Full-stack - Senac São Paulo
     * Desenvolvimento de aplicações web ponta a ponta.
-    * Modelagem de dados e arquitetura REST.
-    * Segurança da informação e boas práticas de versionamento.
-    * Prototipagem e propostas comerciais para web
+    * Prototipagem e propostas comerciais para web.
