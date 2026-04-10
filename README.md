@@ -1,6 +1,6 @@
-<div>
-![Header](caminho/da/imagem.png"https://github.com/raissatozetti/raissatozetti/blob/main/Imagens/Designer%20(1).png) 
-</div>
+<header>
+ <img scr="https://github.com/raissatozetti/raissatozetti/blob/main/Imagens/Designer%20(1).png" widht="100%" height="100%">
+</header>
 
 ###
 
