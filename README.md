@@ -1,7 +1,5 @@
 <div>
-<p>
-<img src="https://github.com/raissatozetti/raissatozetti/blob/main/Imagens/artref.jpg" width="100%" height="10%"> 
-</p>
+![Header](caminho/da/imagem.png"https://github.com/raissatozetti/raissatozetti/blob/main/Imagens/Designer%20(1).png) 
 </div>
 
 ###
@@ -23,6 +21,4 @@
 ### 🎓 Formação em Destaque:
  
 * **Analise e Desenvolvimento de Sistemas - Fatec Presidente Prudente**
-    * Desenvolvedor Full-stack - Senac São Paulo
-    * Desenvolvimento de aplicações web ponta a ponta.
-    * Prototipagem e propostas comerciais para web.
+* ** Desenvolvedor Full-stack - Senac São Paulo**
